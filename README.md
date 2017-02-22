@@ -8,21 +8,21 @@ O presente curso visa o desenvolvimento de habilidades básicas relacionadas ao 
 
 ### Apresentações 
 
-* **[Episódio 0](https://sway.com/3QySEm3p923W7tOj):** Despertar da força: Uma nova esperança.
+* **[Episódio 0:](https://sway.com/3QySEm3p923W7tOj)** Despertar da força: Uma nova esperança.
 
-* **[Episódio 1](https://sway.com/pKTJmQCw93OXs6NS):** Planejamento de forma ágil com Project Model Canvas.
+* **[Episódio 1:](https://sway.com/pKTJmQCw93OXs6NS)** Planejamento de forma ágil com Project Model Canvas.
 
-* **[Episódio 2](https://sway.com/1G4tCAEDyFXV8p0C):** Um pouco sobre Scrum.
+* **[Episódio 2:](https://sway.com/1G4tCAEDyFXV8p0C)** Um pouco sobre Scrum.
 
-* **[Episódio 2,5] (https://sway.com/1G4tCAEDyFXV8p0C):** Um pouco mais sobre Scrum: Versão extendida.
+* **[Episódio 2,5:] (https://sway.com/1G4tCAEDyFXV8p0C)** Um pouco mais sobre Scrum: Versão extendida.
 
 
 ### Livros e outros materiais de estudo
 
-* **[Manifesto Ágil](http://manifestoagil.com.br/):**: Manifesto que descreve os valores e principios da agilidade.
+* **[Manifesto Ágil:](http://manifestoagil.com.br/)** Manifesto que descreve os valores e principios da agilidade.
 
-* **[Rules of Extreme Programming](http://www.extremeprogramming.org/rules.html):**: regras do Extreme Programming que são implementas nas equipes ágeis. 
+* **[Rules of Extreme Programming:](http://www.extremeprogramming.org/rules.html):** regras do Extreme Programming que são implementas nas equipes ágeis. 
 
-* **[DNA Leds](https://www.gitbook.com/book/leds/dna-leds/details):** documento que escreve a nossoa filosofia, nossa metodologia e como usar a força
+* **[DNA Leds:](https://www.gitbook.com/book/leds/dna-leds/details)** documento que escreve a nossoa filosofia, nossa metodologia e como usar a força
 
-* **[Scrum e XP direto das trincheiras](https://www.infoq.com/br/minibooks/scrum-xp-from-the-trenches)**: um bom livro introdutório sobre Scrum e XP. 
+* **[Scrum e XP direto das trincheiras:](https://www.infoq.com/br/minibooks/scrum-xp-from-the-trenches)** um bom livro introdutório sobre Scrum e XP. 
