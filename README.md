@@ -1,4 +1,5 @@
-# Despertar da força: Desenvolvimento ágil de soluções de uma forma prática.
+# Despertar da Força - Processos e Ferramentas para o Gerenciamento Ágil de Projetos: Uma Abordagem Prática 
+
 
 ## Introdução:
 
