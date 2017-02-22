@@ -1,4 +1,4 @@
-# Despertar da força: Curso do Leds sobre prática ágeis de desenvolvimento de soluço
+# Despertar da força: Desenvolvimento ágil de soluções uma forma prática.
 
 ## Introdução:
 
