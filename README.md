@@ -14,7 +14,7 @@ O presente curso visa o desenvolvimento de habilidades básicas relacionadas ao 
 
 * **[Episódio 2:](https://sway.com/1G4tCAEDyFXV8p0C)** Um pouco sobre Scrum.
 
-* **[Episódio 2,5:] (https://sway.com/1G4tCAEDyFXV8p0C)** Um pouco mais sobre Scrum: Versão extendida.
+* **[Episódio 2,5:](https://sway.com/1G4tCAEDyFXV8p0C)** Um pouco mais sobre Scrum: Versão extendida.
 
 
 ### Livros e outros materiais de estudo
