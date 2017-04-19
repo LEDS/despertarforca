@@ -6,7 +6,13 @@ O presente curso visa o desenvolvimento de habilidades básicas relacionadas ao 
 
 ## Material do curso
 
-### Apresentações 
+### Leituras necessrias
+
+* **[Manifesto Ágil:](http://manifestoagil.com.br/)** Manifesto que descreve os valores e principios da agilidade.
+
+* **[A Nova metodologia:](https://medium.com/@thoughtworksbr/a-nova-metodologia-69b8f8a379c7)** um ótimo texto que descreve alguns conceitos e pensamentos necessários para entender o pensamento ágil.
+
+### Episódios 
 
 * **[Episódio 0:](https://sway.com/3QySEm3p923W7tOj)** Despertar da força: Uma nova esperança.
 
@@ -19,10 +25,13 @@ O presente curso visa o desenvolvimento de habilidades básicas relacionadas ao 
 
 ### Livros e outros materiais de estudo
 
-* **[Manifesto Ágil:](http://manifestoagil.com.br/)** Manifesto que descreve os valores e principios da agilidade.
+* **[Scrum e XP direto das trincheiras:](https://www.infoq.com/br/minibooks/scrum-xp-from-the-trenches)** um bom livro introdutório sobre Scrum e XP. 
 
 * **[Rules of Extreme Programming:](http://www.extremeprogramming.org/rules.html):** regras do Extreme Programming que são implementas nas equipes ágeis. 
 
+* **[Human Centered Design:](http://www.designkit.org/resources/1):** um bom livro para entender como criar um produto certo para o seu cliente. 
+
 * **[DNA Leds:](https://www.gitbook.com/book/leds/dna-leds/details)** documento que escreve a nossoa filosofia, nossa metodologia e como usar a força
 
-* **[Scrum e XP direto das trincheiras:](https://www.infoq.com/br/minibooks/scrum-xp-from-the-trenches)** um bom livro introdutório sobre Scrum e XP. 
+
+
