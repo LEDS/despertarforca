@@ -31,7 +31,7 @@ O presente curso visa o desenvolvimento de habilidades básicas relacionadas ao 
 
 * **[Human Centered Design:](http://www.designkit.org/resources/1):** um bom livro para entender como criar um produto certo para o seu cliente. 
 
-* **[DNA Leds:](https://www.gitbook.com/book/leds/dna-leds/details)** documento que escreve a nossoa filosofia, nossa metodologia e como usar a força
+* **[Leds Up:](https://docs.google.com/document/d/e/2PACX-1vTOB_OAsRMvSHPQRTjpm8A7vD6O8OXdKVpfy2OTra9m-mSSMJjKJCdAXY_apXy727Gl97znxY1IdBkh/pub)** documento que escreve a nossoa filosofia, nossa metodologia e como usar a força
 
 
 
